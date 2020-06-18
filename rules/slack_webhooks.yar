@@ -1,4 +1,4 @@
-//include "includes/global.yar"
+// include "../includes/global.yar"
 
 rule SlackWebhooks : slack
 {
